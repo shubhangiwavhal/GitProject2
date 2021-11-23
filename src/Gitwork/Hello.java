@@ -8,5 +8,6 @@ public class Hello {
 		System.out.println("My Second Git");
 		int x=10;
 		int y=20;
+		int z=30;
 	}
 }
